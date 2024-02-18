@@ -1,0 +1,9 @@
+{
+    "name": "pdac-more-compat",
+    "version": "0.1.0",
+    "title": "Pavement Drive Assist Continued - More Compatibility",
+	"description": "Adds compatibility for Pavement Drive Assist Continued to Nullius",
+    "author": "Kabby",
+    "factorio_version": "1.1",
+    "dependencies": ["PavementDriveAssistContinued", "? nullius >= 1.9.1"]
+}

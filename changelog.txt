@@ -1,0 +1,6 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 17. 02. 2024
+  Features:
+    - Initial relase for Nullius compatibility
+    - Also includes a spelling fix for the Stop sign
